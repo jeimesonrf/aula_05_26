@@ -1,0 +1,37 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    background-color: #f5f5db;
+}
+.container {
+    padding: 5px;
+}
+
+#box1 {
+    background-color: #62dede;
+    width: 200px;
+    height: 200px;
+    border: 3px solid #455d20;
+}
+
+#box2 {
+    background-color: #8762de;
+    width: 200px;
+    height: 200px;
+    border: 3px solid #455d20;
+}
+#box3 {
+    background-color: #bee39e;
+    width: 200px;
+    height: 200px;
+    border: 3px solid #455d20;
+}
+#box4 {
+    background-color: #097171;
+    width: 200px;
+    height: 200px;
+    border: 3px solid #455d20;
+}
